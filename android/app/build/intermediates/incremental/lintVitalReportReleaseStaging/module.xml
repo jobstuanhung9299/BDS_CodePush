@@ -1,6 +1,6 @@
 <lint-module
     format="1"
-    dir="/Users/apple/Desktop/Source/BDS_CodePush/android/app"
+    dir="/Users/apple/Desktop/Hung/BDS_CodePush/android/app"
     name=":app"
     type="APP"
     maven="BDS_CodePush:app:"

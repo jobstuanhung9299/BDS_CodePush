@@ -39,10 +39,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/apple/Desktop/Source/BDS_CodePush/android@@:react-native-code-push::release"
-      jars="/Users/apple/Desktop/Source/BDS_CodePush/node_modules/react-native-code-push/android/app/build/.transforms/418f598e6a24bf7ffe5cf8f756d1fdc4/transformed/out/jars/classes.jar"
+      name="/Users/apple/Desktop/Hung/BDS_CodePush/android@@:react-native-code-push::release"
+      jars="/Users/apple/Desktop/Hung/BDS_CodePush/node_modules/react-native-code-push/android/app/build/.transforms/770ce7a3b36b781f96e43e3c9e523fff/transformed/out/jars/classes.jar"
       resolved="BDS_CodePush:react-native-code-push:unspecified"
-      folder="/Users/apple/Desktop/Source/BDS_CodePush/node_modules/react-native-code-push/android/app/build/.transforms/418f598e6a24bf7ffe5cf8f756d1fdc4/transformed/out"
+      folder="/Users/apple/Desktop/Hung/BDS_CodePush/node_modules/react-native-code-push/android/app/build/.transforms/770ce7a3b36b781f96e43e3c9e523fff/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -52,10 +52,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/apple/Desktop/Source/BDS_CodePush/android@@:react-native-webview::release"
-      jars="/Users/apple/Desktop/Source/BDS_CodePush/node_modules/react-native-webview/android/build/.transforms/a19f183d3974356bb4262ed9ed8dd913/transformed/out/jars/classes.jar"
+      name="/Users/apple/Desktop/Hung/BDS_CodePush/android@@:react-native-webview::release"
+      jars="/Users/apple/Desktop/Hung/BDS_CodePush/node_modules/react-native-webview/android/build/.transforms/9b959f55c633ac5d2b7f442a2b3bcf76/transformed/out/jars/classes.jar"
       resolved="BDS_CodePush:react-native-webview:unspecified"
-      folder="/Users/apple/Desktop/Source/BDS_CodePush/node_modules/react-native-webview/android/build/.transforms/a19f183d3974356bb4262ed9ed8dd913/transformed/out"
+      folder="/Users/apple/Desktop/Hung/BDS_CodePush/node_modules/react-native-webview/android/build/.transforms/9b959f55c633ac5d2b7f442a2b3bcf76/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
