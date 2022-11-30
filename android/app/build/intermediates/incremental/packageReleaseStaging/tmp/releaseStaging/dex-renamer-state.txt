@@ -1,0 +1,4 @@
+#Wed Nov 30 15:44:51 ICT 2022
+base.0=/Users/apple/Desktop/Source/BDS_CodePush/android/app/build/intermediates/dex/releaseStaging/mergeDexReleaseStaging/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

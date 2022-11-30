@@ -1,0 +1,47 @@
+<variant
+    name="releaseStaging"
+    package="com.bds_codepush"
+    minSdkVersion="21"
+    targetSdkVersion="31"
+    mergedManifest="build/intermediates/merged_manifest/releaseStaging/AndroidManifest.xml"
+    proguardFiles="build/intermediates/default_proguard_files/global/proguard-android.txt-7.2.1"
+    partialResultsDir="build/intermediates/lint_vital_partial_results/releaseStaging/out">
+  <buildFeatures
+      namespacing="REQUIRED"/>
+  <sourceProviders>
+    <sourceProvider
+        manifest="src/main/AndroidManifest.xml"
+        javaDirectories="src/main/java:build/generated/rncli/src/main/java:src/main/kotlin"
+        resDirectories="src/main/res"
+        assetsDirectories="src/main/assets"/>
+    <sourceProvider
+        manifest="src/releaseStaging/AndroidManifest.xml"
+        javaDirectories="src/releaseStaging/java:src/releaseStaging/kotlin"
+        resDirectories="src/releaseStaging/res"
+        assetsDirectories="src/releaseStaging/assets"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <resValues>
+    <resValue
+        type="string"
+        name="CodePushDeploymentKey"
+        value="&quot;DjJN9Mmo0Gy3JBDbPaPeVNpNb-GJOOO2EBt_2&quot;" />
+    <resValue
+        type="integer"
+        name="react_native_dev_server_port"
+        value="8081" />
+    <resValue
+        type="integer"
+        name="react_native_inspector_proxy_port"
+        value="8081" />
+  </resValues>
+  <mainArtifact
+      classOutputs="build/intermediates/javac/releaseStaging/classes:build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/releaseStaging/R.jar"
+      applicationId="com.bds_codepush"
+      generatedSourceFolders="build/generated/source/buildConfig/releaseStaging:build/generated/aidl_source_output_dir/releaseStaging/out:build/generated/renderscript_source_output_dir/releaseStaging/out:build/generated/ap_generated_sources/releaseStaging/out"
+      generatedResourceFolders="build/generated/res/react/releaseStaging:build/generated/res/rs/releaseStaging:build/generated/res/resValues/releaseStaging">
+  </mainArtifact>
+</variant>
